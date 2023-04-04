@@ -1,4 +1,4 @@
-from sql import *
+from gerenciador_de_tarefas_cli.queries import *
 from os import system
 
 
